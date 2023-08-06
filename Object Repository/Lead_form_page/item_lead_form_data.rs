@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>item_lead_form_data</name>
+   <tag></tag>
+   <elementGuidId>cd9bee2d-e027-47f7-9f4e-d601a15d8ff3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h6[contains(text(), '${txtName}')]//parent::div//following-sibling::div//child::button[contains(text(), '${btnName}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>1fb451ba-5a80-4119-8ea5-fbb15444000a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1689770070191</value>
+      <webElementGuid>5ec4b234-644a-435e-a61e-44ca8d14c8aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>197c446e-7565-4b2f-8663-5450c23e25ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1689770070191</value>
+      <webElementGuid>95f61a99-550a-4760-aa1f-212f72eab32c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

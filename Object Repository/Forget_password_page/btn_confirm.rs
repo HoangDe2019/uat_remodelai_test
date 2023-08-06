@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_confirm</name>
+   <tag></tag>
+   <elementGuidId>619cb824-43c9-4876-aea3-20a24bb9ad45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button//span[contains(text(), 'Confirm')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>beb8ef16-eff2-4aa8-a5fd-37806ad85f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1689680345689</value>
+      <webElementGuid>a365692e-21bf-4f1a-b0f0-06c5614caf97</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
