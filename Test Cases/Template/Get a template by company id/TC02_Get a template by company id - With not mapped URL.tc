@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get a template by company id - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f69fcbf-e308-4f21-bdae-96182b3fc91b</testCaseGuid>
+</TestCaseEntity>

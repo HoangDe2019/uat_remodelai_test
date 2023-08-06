@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create a completion - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a553c7e-8b23-48bc-a482-bfcf190eda22</testCaseGuid>
+</TestCaseEntity>

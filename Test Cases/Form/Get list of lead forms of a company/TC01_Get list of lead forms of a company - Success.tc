@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get list of lead forms of a company - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7e7eb38-99bc-4900-abe6-9a7fee9696ff</testCaseGuid>
+</TestCaseEntity>

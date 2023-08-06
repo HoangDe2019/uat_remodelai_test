@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get a chatBot activate for a given company - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a99dffb2-76a2-492c-a5a2-06c815960d8c</testCaseGuid>
+</TestCaseEntity>

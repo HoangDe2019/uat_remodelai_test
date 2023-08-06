@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Fill user information for a company - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>30c1d76d-7052-4094-ac09-3f7841a8ec3a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Delete a lead form for the company - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1b81b42b-4eab-4166-af5f-07d9349791e8</testCaseGuid>
+</TestCaseEntity>

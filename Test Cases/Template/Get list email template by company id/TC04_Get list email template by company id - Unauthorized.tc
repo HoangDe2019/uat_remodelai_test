@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Get list email template by company id - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>245fd646-47f2-493d-80e8-dc5ec0782e99</testCaseGuid>
+</TestCaseEntity>

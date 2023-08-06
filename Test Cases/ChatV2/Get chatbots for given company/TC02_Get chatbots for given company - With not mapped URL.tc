@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get chatbots for given company - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>278899db-fd9b-43b7-bbba-4796484d699b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get renderCreatePage - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8758842-69a8-43bb-9339-8ace2537c29c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Delete a appointment - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7d8fc01-174b-4b33-af23-e784d2ac21f3</testCaseGuid>
+</TestCaseEntity>

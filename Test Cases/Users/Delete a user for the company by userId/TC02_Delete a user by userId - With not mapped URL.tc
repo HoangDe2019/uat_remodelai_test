@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Delete a user by userId - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9d51eb6-af44-410b-bf6c-68062dc0abbe</testCaseGuid>
+</TestCaseEntity>

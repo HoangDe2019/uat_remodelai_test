@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Create a completion - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab0bc5ff-9406-4214-b77e-df9c9031f3b4</testCaseGuid>
+</TestCaseEntity>

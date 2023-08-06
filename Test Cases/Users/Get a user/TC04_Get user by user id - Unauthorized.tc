@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Get user by user id - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6bfb090-885d-4acd-ad20-7be8816b4498</testCaseGuid>
+</TestCaseEntity>

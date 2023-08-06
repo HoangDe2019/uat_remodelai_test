@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Create reactjs script - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>596e01d8-a42c-4497-abfe-3b3f1bd1f8d8</testCaseGuid>
+</TestCaseEntity>

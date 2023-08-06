@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create lead form - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a434e9b8-9563-4a64-8995-4ddc6e0ecac7</testCaseGuid>
+</TestCaseEntity>

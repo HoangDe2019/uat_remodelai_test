@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get a template by company id - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e62232a-2c6a-40ab-93cb-652be5a04b3d</testCaseGuid>
+</TestCaseEntity>

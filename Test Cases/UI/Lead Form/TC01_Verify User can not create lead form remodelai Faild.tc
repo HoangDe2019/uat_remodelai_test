@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify User can not create lead form remodelai Faild</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5155cba5-249a-4c38-a2ef-b424391530a3</testCaseGuid>
+</TestCaseEntity>

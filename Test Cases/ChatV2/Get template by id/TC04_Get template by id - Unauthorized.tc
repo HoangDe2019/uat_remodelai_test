@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Get template by id - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6aa4633-e44b-4c69-bb19-128a69188f73</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Create a completion - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>950a167e-f1eb-4aca-aab6-9e05cfb0c63c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Upload chatbot of avatar - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6ca8803-368d-42de-884b-69836e8b3703</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Delete a lead form for the company - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86c1cefb-5113-44c1-a92d-785379d330f2</testCaseGuid>
+</TestCaseEntity>

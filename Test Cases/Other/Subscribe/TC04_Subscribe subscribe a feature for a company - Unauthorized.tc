@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Subscribe subscribe a feature for a company - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bf0b09f-99de-4cfe-a332-20e665af9751</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get wordpress content - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cd161c5-68ef-43c3-84a8-1fc5acf869fe</testCaseGuid>
+</TestCaseEntity>

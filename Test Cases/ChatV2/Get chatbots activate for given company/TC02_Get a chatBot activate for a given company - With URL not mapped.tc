@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get a chatBot activate for a given company - With URL not mapped</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5f71214-c0fd-49ca-8bd6-4f20776d0a75</testCaseGuid>
+</TestCaseEntity>

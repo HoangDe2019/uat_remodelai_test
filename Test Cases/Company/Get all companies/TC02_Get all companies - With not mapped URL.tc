@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get all companies - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8e99ae8-2708-4d54-937e-9b18a3ec72bf</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Sign in by a User - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88106008-e435-4c4c-a393-54d58632b60b</testCaseGuid>
+</TestCaseEntity>

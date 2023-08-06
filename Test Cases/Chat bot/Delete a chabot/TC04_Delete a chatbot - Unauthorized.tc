@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Delete a chatbot - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8d4364e-1536-40e2-8b8f-d06c7e5566ab</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get list of lead form reponse of a company - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce65662b-ac66-4304-8349-79536917c358</testCaseGuid>
+</TestCaseEntity>

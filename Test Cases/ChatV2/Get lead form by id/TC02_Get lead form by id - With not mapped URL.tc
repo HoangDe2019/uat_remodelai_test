@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get lead form by id - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3779cd4c-8032-4b66-ac54-d10eebaaafdf</testCaseGuid>
+</TestCaseEntity>

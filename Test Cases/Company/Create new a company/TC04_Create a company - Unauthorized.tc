@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Create a company - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>68ca17c0-fe42-4b11-894c-034d286972f3</testCaseGuid>
+</TestCaseEntity>

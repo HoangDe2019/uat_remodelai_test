@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Create user information for a company - Unauthorized - Unuse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2787693b-1ca3-4194-bd5c-a84e23f141c8</testCaseGuid>
+</TestCaseEntity>

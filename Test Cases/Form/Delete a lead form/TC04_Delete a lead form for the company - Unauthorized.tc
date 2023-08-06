@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Delete a lead form for the company - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e92805e6-3101-4269-ba71-48715b2a93af</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Create wordpress script - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3bb9362-26af-4ce4-b019-44a7d3f6f264</testCaseGuid>
+</TestCaseEntity>

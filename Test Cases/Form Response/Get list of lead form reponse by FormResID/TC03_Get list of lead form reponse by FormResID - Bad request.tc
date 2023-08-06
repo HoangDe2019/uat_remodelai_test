@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get list of lead form reponse by FormResID - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>06e17cd1-556e-40d6-94b6-07efba8af128</testCaseGuid>
+</TestCaseEntity>

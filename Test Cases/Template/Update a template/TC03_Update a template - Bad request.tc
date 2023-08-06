@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Update a template - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d20a1dab-9408-4702-a756-9713e08aeea2</testCaseGuid>
+</TestCaseEntity>

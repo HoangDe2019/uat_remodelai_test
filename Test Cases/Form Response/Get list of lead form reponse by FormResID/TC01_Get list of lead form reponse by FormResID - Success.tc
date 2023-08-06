@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get list of lead form reponse by FormResID - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce38073e-67f4-4bed-af9c-6d333d90c3be</testCaseGuid>
+</TestCaseEntity>

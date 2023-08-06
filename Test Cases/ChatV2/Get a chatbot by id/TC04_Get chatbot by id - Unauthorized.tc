@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Get chatbot by id - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d6d4ceb-3c1f-4412-b7a1-af4a6bc0dfe7</testCaseGuid>
+</TestCaseEntity>

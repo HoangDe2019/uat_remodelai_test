@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Verify User can login remodelai successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3c70d4d-f8f6-42b9-ba34-7e151ea3a579</testCaseGuid>
+</TestCaseEntity>

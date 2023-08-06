@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create user information for a company - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e32a963-e5d7-41da-baa3-2ff87f3bbf16</testCaseGuid>
+</TestCaseEntity>

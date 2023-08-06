@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Upload chatbot of avatar - Bad Request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f87b8066-d417-4eda-8ae0-5ea13eb35326</testCaseGuid>
+</TestCaseEntity>

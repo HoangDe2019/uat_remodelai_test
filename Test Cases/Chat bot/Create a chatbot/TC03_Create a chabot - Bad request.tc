@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create a chabot - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a46f0fd8-19e0-4116-8ee1-e6bec051bfa5</testCaseGuid>
+</TestCaseEntity>

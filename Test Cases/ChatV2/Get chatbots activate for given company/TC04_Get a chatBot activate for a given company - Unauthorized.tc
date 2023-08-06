@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Get a chatBot activate for a given company - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>37770486-79cd-4807-8ef2-f24b01552452</testCaseGuid>
+</TestCaseEntity>

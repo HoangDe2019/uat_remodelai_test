@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Subscribe subscribe a feature for a company - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f160cde6-eb03-4d0a-a497-6dd32d1b9523</testCaseGuid>
+</TestCaseEntity>

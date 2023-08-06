@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get info user auth - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab059144-4490-470a-b42e-5fb22ab5e77b</testCaseGuid>
+</TestCaseEntity>

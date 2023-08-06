@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get info user auth - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53135f62-75dc-449b-b896-df3443e2269d</testCaseGuid>
+</TestCaseEntity>

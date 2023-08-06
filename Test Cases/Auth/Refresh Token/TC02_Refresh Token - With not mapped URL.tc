@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Refresh Token - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6f3f990-1bca-4959-baaf-e7dc7c885aa7</testCaseGuid>
+</TestCaseEntity>

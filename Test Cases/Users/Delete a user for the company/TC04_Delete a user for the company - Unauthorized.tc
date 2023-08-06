@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Delete a user for the company - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9e5ea82d-4ce4-47c1-8356-1e3d3443fa82</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create reactjs script - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5af58b2-9a54-45b9-9389-54b1f0f53eca</testCaseGuid>
+</TestCaseEntity>

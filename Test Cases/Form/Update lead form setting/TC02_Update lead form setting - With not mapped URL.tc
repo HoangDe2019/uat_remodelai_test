@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Update lead form setting - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86d24c93-3e16-49e8-af1d-03e4e6beceeb</testCaseGuid>
+</TestCaseEntity>

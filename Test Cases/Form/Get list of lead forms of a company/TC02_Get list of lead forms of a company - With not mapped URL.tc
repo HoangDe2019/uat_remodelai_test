@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get list of lead forms of a company - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>afea4528-0cc5-4e49-8433-4b3f7dd9c4e5</testCaseGuid>
+</TestCaseEntity>

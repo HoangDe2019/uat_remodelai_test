@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Create a completion - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56d87feb-5647-41e6-a988-a1b481ac5b59</testCaseGuid>
+</TestCaseEntity>

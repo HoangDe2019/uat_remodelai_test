@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Refresh Token - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2fa2759-1053-41f6-88a0-ddcf7086e0b1</testCaseGuid>
+</TestCaseEntity>

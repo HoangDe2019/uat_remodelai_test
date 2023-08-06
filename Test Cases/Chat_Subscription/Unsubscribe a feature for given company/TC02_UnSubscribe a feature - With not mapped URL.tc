@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_UnSubscribe a feature - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df14e365-cb13-41b0-bd2a-c5ae1ed049fd</testCaseGuid>
+</TestCaseEntity>

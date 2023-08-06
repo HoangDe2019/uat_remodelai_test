@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Edit a email template - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18798c07-6e5c-490f-9749-7bf26be6d679</testCaseGuid>
+</TestCaseEntity>

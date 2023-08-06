@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get list of forms - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7afdcca-c03e-45c0-92f2-2e3084e5a3f8</testCaseGuid>
+</TestCaseEntity>

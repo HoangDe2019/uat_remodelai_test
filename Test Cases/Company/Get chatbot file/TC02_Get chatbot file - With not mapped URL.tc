@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get chatbot file - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6bd30946-8420-4b3a-a697-e1bbab0073d8</testCaseGuid>
+</TestCaseEntity>

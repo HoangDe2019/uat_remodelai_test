@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get all models - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92f8f41b-2b20-4e97-b194-4c69e1279581</testCaseGuid>
+</TestCaseEntity>

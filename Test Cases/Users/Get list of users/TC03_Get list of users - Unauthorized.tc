@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get list of users - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b608a70b-b293-423c-b3e3-e5d8de3e001d</testCaseGuid>
+</TestCaseEntity>

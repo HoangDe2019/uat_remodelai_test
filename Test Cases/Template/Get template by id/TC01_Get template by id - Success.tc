@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get template by id - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8e87c16-e4e4-4a5f-a02b-41895f723c2e</testCaseGuid>
+</TestCaseEntity>

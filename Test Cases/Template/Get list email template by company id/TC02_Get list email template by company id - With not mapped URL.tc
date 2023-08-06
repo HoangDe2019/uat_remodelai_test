@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get list email template by company id - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8c4aaa5-c2ab-46e5-a6b0-cbb8c1f34d74</testCaseGuid>
+</TestCaseEntity>

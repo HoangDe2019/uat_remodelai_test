@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get list of users of a company - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab076831-d737-4e03-a0f6-6f1e0d0733ef</testCaseGuid>
+</TestCaseEntity>

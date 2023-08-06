@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Signup a user by email - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af39c5b3-e27d-4da1-b743-9a6a39016d13</testCaseGuid>
+</TestCaseEntity>

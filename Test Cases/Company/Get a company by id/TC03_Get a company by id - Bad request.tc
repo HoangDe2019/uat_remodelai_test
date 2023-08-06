@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get a company by id - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aedcda72-0350-4beb-92c1-3a1400e06d1d</testCaseGuid>
+</TestCaseEntity>

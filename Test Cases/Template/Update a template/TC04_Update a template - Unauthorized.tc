@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Update a template - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16a5aa65-7007-4413-9e90-8fd1861305e5</testCaseGuid>
+</TestCaseEntity>

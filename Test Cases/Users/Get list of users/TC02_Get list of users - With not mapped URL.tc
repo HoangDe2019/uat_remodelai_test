@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get list of users - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf8d8f36-9537-43d1-8225-5fb7d545d8dd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Create a email template - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a39c0780-626a-4495-8af6-ae5441a44a8b</testCaseGuid>
+</TestCaseEntity>

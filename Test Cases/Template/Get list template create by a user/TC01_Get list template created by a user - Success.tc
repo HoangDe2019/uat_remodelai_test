@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get list template created by a user - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edf9a7af-9da2-4840-80f6-eac4d1112a67</testCaseGuid>
+</TestCaseEntity>

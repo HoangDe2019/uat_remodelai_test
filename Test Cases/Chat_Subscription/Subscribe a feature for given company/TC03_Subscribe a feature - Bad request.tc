@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Subscribe a feature - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55c2e534-2ace-4085-8640-681abf7c4a52</testCaseGuid>
+</TestCaseEntity>

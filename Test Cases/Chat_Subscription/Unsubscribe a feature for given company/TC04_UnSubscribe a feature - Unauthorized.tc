@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_UnSubscribe a feature - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1be03dd-27df-415e-b0a7-c7bb6f6b0ee8</testCaseGuid>
+</TestCaseEntity>

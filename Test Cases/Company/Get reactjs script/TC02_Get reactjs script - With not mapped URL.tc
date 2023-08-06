@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get reactjs script - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daa18343-9e8d-470c-9608-a77a36367c60</testCaseGuid>
+</TestCaseEntity>

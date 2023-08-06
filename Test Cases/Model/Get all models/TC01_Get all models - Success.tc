@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get all models - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4b0e978-f09a-4e58-9618-1e9f8baa7160</testCaseGuid>
+</TestCaseEntity>

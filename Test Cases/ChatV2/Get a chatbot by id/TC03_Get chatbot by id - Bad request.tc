@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get chatbot by id - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d497a148-c942-4858-8537-e14206675f07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get all models - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>482814df-c77c-44ee-b3cb-ab0fe8756127</testCaseGuid>
+</TestCaseEntity>

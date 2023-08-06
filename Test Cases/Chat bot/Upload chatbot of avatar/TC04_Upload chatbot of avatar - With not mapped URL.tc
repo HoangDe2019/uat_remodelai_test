@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Upload chatbot of avatar - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>25eb9a93-6c07-4731-929a-0cc0c6611b9c</testCaseGuid>
+</TestCaseEntity>

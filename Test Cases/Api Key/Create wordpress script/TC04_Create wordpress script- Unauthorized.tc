@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Create wordpress script- Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6d551cb0-ba67-4a64-85ec-a828a7516eb4</testCaseGuid>
+</TestCaseEntity>

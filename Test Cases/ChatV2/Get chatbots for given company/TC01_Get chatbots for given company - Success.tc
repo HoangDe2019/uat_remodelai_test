@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get chatbots for given company - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2afc753b-aae9-47fb-82e4-206bfd923654</testCaseGuid>
+</TestCaseEntity>

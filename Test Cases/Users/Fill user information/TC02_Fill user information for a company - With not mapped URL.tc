@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Fill user information for a company - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76eaf127-017c-457a-b691-c730861c37c8</testCaseGuid>
+</TestCaseEntity>

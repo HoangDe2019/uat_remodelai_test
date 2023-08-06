@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Edit a email template - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5b806ad9-afd5-4d93-881c-8f2e2a316af5</testCaseGuid>
+</TestCaseEntity>

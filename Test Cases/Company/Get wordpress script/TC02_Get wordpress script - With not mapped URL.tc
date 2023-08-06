@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Get wordpress script - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e10337cb-45ef-480b-b421-ad2765fa1138</testCaseGuid>
+</TestCaseEntity>

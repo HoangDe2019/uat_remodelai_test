@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_UnSubscribe a feature - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2f7f9be-92cd-4c8e-b799-b3e1e8c60e00</testCaseGuid>
+</TestCaseEntity>

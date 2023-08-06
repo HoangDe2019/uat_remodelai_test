@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Refresh Token - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de31fe93-f6a6-485b-a4f2-1b8edcb0e400</testCaseGuid>
+</TestCaseEntity>

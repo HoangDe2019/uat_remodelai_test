@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get template by id - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38712ca7-9f76-49a8-91e5-f445cc266082</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create a appointment - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba926426-73ce-477a-87f2-9284c2a7f1d0</testCaseGuid>
+</TestCaseEntity>

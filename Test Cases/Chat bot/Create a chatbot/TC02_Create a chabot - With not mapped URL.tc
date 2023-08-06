@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Create a chabot - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7fcd5cad-9d6b-44e8-a7eb-e45bf451c0ca</testCaseGuid>
+</TestCaseEntity>

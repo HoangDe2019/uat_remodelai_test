@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Confirm Reset - With URL not mapped</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa5346a0-f5ff-43e2-b0ce-0e3eac043c4a</testCaseGuid>
+</TestCaseEntity>

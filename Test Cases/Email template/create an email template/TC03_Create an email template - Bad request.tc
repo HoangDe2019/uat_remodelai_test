@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Create an email template - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55fdde1a-4e67-4e53-8638-1e00eff7d723</testCaseGuid>
+</TestCaseEntity>

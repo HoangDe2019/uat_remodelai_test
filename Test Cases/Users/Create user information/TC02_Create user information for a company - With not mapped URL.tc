@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Create user information for a company - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ab75ab6-5fa9-485a-bcfe-ec3479c84c89</testCaseGuid>
+</TestCaseEntity>

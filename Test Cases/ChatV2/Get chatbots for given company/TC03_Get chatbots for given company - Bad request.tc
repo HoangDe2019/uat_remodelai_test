@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get chatbots for given company - Bad request</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28b7d69d-89d6-4230-87cd-7dfe6a527e4d</testCaseGuid>
+</TestCaseEntity>

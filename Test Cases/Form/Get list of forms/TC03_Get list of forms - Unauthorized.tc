@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get list of forms - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5915212-2b06-4b89-bc80-c6c8db56b836</testCaseGuid>
+</TestCaseEntity>

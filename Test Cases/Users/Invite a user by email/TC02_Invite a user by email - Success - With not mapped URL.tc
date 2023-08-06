@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Invite a user by email - Success - With not mapped URL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9b8702b-88fa-469d-a002-f44b664c87fd</testCaseGuid>
+</TestCaseEntity>

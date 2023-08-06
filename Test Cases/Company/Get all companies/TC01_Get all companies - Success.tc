@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Get all companies - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c841a0b-d993-474e-8c6d-2fb0380306d2</testCaseGuid>
+</TestCaseEntity>

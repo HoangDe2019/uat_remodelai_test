@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Invite a user by email - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df7592de-869b-4e03-90f3-3d48f865028d</testCaseGuid>
+</TestCaseEntity>

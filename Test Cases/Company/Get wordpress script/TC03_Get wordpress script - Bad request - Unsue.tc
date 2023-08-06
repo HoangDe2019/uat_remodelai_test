@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get wordpress script - Bad request - Unsue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7cfb10e-10a4-4175-9938-224e019f2b5d</testCaseGuid>
+</TestCaseEntity>

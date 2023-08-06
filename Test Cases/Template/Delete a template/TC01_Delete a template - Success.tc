@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Delete a template - Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62c44e41-be17-458c-affc-47e03396e3a9</testCaseGuid>
+</TestCaseEntity>

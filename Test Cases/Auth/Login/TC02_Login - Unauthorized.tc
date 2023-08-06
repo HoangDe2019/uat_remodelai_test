@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Login - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7a57400-d244-40e1-be79-b449574ba5bb</testCaseGuid>
+</TestCaseEntity>

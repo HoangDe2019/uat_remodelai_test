@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Get wordpress content - Unauthorized</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6cf3a7a7-9b92-494c-9e1e-fe9b10719f24</testCaseGuid>
+</TestCaseEntity>
